@@ -46,4 +46,4 @@ light2.color.SetColor(1,.5,.5)
 light2.type = "point"
 scene.AddLight(light2)
 
-camera.Render(scene.objects, scene.lights, "GlossySpher
+camera.Render(scene.objects, scene.lights, "GlossySphere")
