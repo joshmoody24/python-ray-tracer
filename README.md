@@ -1,6 +1,8 @@
 # python-ray-tracer
 A simple ray-tracing program written in python
 
+Requires PIL (Python Imaging Library) to run
+
 Running a "Scene_*.py" file will generate a png (name and size specified in file) that was generated using ray-tracing algorithms. Only supported objects are planes and sphere. Supported object material types are:
 diffuse: non-shiny surface. Objects like wood are diffuse.
 glossy: mirror-like surface.
